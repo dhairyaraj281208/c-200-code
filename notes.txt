@@ -1,0 +1,5 @@
+The Math.atan() method returns the arctangent of a number as a value between -PI/2 and PI/2 radians.
+let x = Math.atan(2);
+
+
+npm install react-native-responsive-fontsize --save
